@@ -1,0 +1,14 @@
+{
+  "name": "selectacolor",
+  "version": "0.0.1",
+  "description": "selecting a color and multiple display",
+  "main": "index.js",
+  "scripts": {
+    "test": "display error"
+  },
+  "author": "janaki",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}

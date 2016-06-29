@@ -1,0 +1,131 @@
+[
+    {"name": "yellow"}, 
+    {"name": "black"}, 
+    {"name": "blue"},
+    {"name": "red"},
+    {"name": "green"}, 
+    {"name": "pink"},
+    {
+        "name": "#EFDECD"
+    },
+    {
+        "name": "#CD9575", 
+        "nam": "Antique Brass", 
+        "rgb": "(205, 149, 117)"
+    }, 
+    {
+        "name": "#FDD9B5", 
+        "nam": "Apricot", 
+        "rgb": "(253, 217, 181)"
+    }, 
+    {
+        "name": "#78DBE2", 
+        "nam": "Aquamarine", 
+        "rgb": "(120, 219, 226)"
+    }, 
+    {
+        "name": "#87A96B", 
+        "nam": "Asparagus", 
+        "rgb": "(135, 169, 107)"
+    }, 
+    {
+        "name": "#FFA474", 
+        "nam": "Atomic Tangerine", 
+        "rgb": "(255, 164, 116)"
+    }, 
+    {
+        "name": "#FAE7B5", 
+        "nam": "Banana Mania", 
+        "rgb": "(250, 231, 181)"
+    }, 
+    {
+        "name": "#9F8170", 
+        "nam": "Beaver", 
+        "rgb": "(159, 129, 112)"
+    }, 
+    {
+        "name": "#FD7C6E", 
+        "nam": "Bittersweet", 
+        "rgb": "(253, 124, 110)"
+    },  
+    {
+        "name": "#ACE5EE", 
+        "nam": "Blizzard Blue", 
+        "rgb": "(172, 229, 238)"
+    },
+    {
+        "name": "#1F75FE", 
+        "nam": "Blue", 
+        "rgb": "(31, 117, 254)"
+    }, 
+    {
+        "name": "#A2A2D0", 
+        "nam": "Blue Bell", 
+        "rgb": "(162, 162, 208)"
+    }, 
+    {
+        "name": "#6699CC", 
+        "nam": "Blue Gray", 
+        "rgb": "(102, 153, 204)"
+    }, 
+    {
+        "name": "#0D98BA", 
+        "nam": "Blue Green", 
+        "rgb": "(13, 152, 186)"
+    }, 
+    {
+        "name": "#7366BD", 
+        "nam": "Blue Violet", 
+        "rgb": "(115, 102, 189)"
+    }, 
+    {
+        "name": "#DE5D83", 
+        "nam": "Blush", 
+        "rgb": "(222, 93, 131)"
+    }, 
+    {
+        "name": "#CB4154", 
+        "nam": "Brick Red", 
+        "rgb": "(203, 65, 84)"
+    }, 
+    {
+        "name": "#B4674D", 
+        "nam": "Brown", 
+        "rgb": "(180, 103, 77)"
+    }, 
+    {
+        "name": "#FF7F49", 
+        "nam": "Burnt Orange", 
+        "rgb": "(255, 127, 73)"
+    }, 
+    {
+        "name": "#EA7E5D", 
+        "nam": "Burnt Sienna", 
+        "rgb": "(234, 126, 93)"
+    }, 
+    {
+        "name": "#B0B7C6", 
+        "nam": "Cadet Blue", 
+        "rgb": "(176, 183, 198)"
+    }, 
+    {
+        "name": "#FFFF99", 
+        "nam": "Canary", 
+        "rgb": "(255, 255, 153)"
+    }, 
+    {
+        "name": "#1CD3A2", 
+        "nam": "Caribbean Green", 
+        "rgb": "(28, 211, 162)"
+    }, 
+    {
+        "name": "#FFAACC", 
+        "nam": "Carnation Pink", 
+        "rgb": "(255, 170, 204)"
+    }
+    
+]
+
+    
+       
+ 
